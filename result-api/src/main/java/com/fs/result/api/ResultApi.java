@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
  * @description:
  */
 public interface ResultApi {
+
     String PREFIX = "result";
 
 
