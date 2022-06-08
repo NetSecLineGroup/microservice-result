@@ -1,5 +1,3 @@
-#项目地址
-    https://gitee.com/chenyile/fs.git
 #本地环境搭建
 ## 1、mongo安装
 
