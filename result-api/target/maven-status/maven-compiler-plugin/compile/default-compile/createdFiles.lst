@@ -1,9 +1,0 @@
-com\fs\result\constant\QueryTaskStatusEnum.class
-com\fs\result\constant\NumberConstant.class
-com\fs\result\common\ResponseEnum.class
-com\fs\result\common\QueryCondition.class
-com\fs\result\client\ResultClient.class
-com\fs\result\common\Response.class
-com\fs\result\api\ResultApi.class
-com\fs\result\common\PageEntity.class
-com\fs\result\vo\QueryTaskStatusVo.class
