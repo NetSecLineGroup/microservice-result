@@ -1,0 +1,10 @@
+com\fs\result\ResultServiceApplication.class
+com\fs\result\service\impl\MongoServiceImpl.class
+com\fs\result\dao\CommonRepository.class
+com\fs\result\service\MongoService.class
+com\fs\result\config\SwaggerConfig.class
+com\fs\result\entity\MongoDataEntity.class
+com\fs\result\common\ResponseEnum.class
+com\fs\result\controller\MongoController.class
+com\fs\result\common\Response.class
+com\fs\result\common\PageEntity.class
